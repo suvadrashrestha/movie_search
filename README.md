@@ -18,4 +18,6 @@ This is a React-based web application that allows users to search for movies usi
 - cd movie-search
 - npm install
 - npm run dev
+### 2. Deployed
+- https://movie-search-nine-dun.vercel.app/
 
