@@ -14,8 +14,8 @@ This is a React-based web application that allows users to search for movies usi
 ##  Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/movie-search-app.git
-cd movie-search
-npm install
-npm run dev
+- git clone https://github.com/your-username/movie-search-app.git
+- cd movie-search
+- npm install
+- npm run dev
 
